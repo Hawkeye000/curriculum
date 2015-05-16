@@ -31,7 +31,7 @@ This is a great project to have as a part of your portfolio going forward becaus
 * [Aleksandar's solution](https://github.com/Rodic/RubyChess)
 * [Donald's solution](https://github.com/donaldali/Chess)
 * [TomTom's solution](https://github.com/tim5046/projectOdin/tree/master/Ruby/FinalProject)
-* [Hawkeye's solution](https://github.com/Hawkeye000/command-line-chess)
+* [Hawkeye's solution](https://github.com/Hawkeye000/command-line-chess) | [Sinatra implementation](https://github.com/bcpearce/sinatra-chess) | [Web demo](http://hawkeye-chess.herokuapp.com/)
 * [Sergio Ribeiro's solution](https://github.com/serg1o/Chess)
 * [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/tree/master/Project2_9_Final_Ruby_Chess)
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/tree/master/Chapter_03-Advanced_Ruby/chess)
